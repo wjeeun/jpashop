@@ -30,4 +30,6 @@ public class OrderFlatDto {
         this.count = count;
     }
 
+    private String apple;//test용
+
 }
